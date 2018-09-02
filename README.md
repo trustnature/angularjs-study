@@ -2,4 +2,4 @@
 angularjs study
 
 http://www.ngnice.com/
-https://www.imooc.com/video/4345
+https://www.imooc.com/learn/156
